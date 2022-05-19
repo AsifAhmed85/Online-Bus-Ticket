@@ -1,0 +1,8 @@
+Hanif-Dhaka-Chittagong-2/12/2018-9.00am-A2_asif,A3_asif,A4_asif,B1_asif,C2_asif,E1_asif,D3_asif,
+Hanif-Dhaka-Sylhet-2/12/2018-9.00am-A1_asif,A2_asif,D3_asif,A4_asif,B1_asif,C2_asif,
+Hanif-Dhaka-Rajshahi-2/12/2018-9.00am-A1_asif,A2_asif,A3_asif,A4_asif,
+Hanif-Chittagong-Dhaka-2/12/2018-9.00am-A3_asif,A4_asif,B1_asif,C2_asif,
+Shamoly-Dhaka-Chittagong-2/12/2018-9.00am-A1_sakibul,A2_sakibul,A3_sakibul,A4_sakibul,B1_sakibul,G2_sakibul,C4_rakib,
+Green Line-Comilla-Dhaka-1/25/2018-8.00pm-no
+Volvo-Comilla-dhaka-1/25/2018-8.00pm-no
+hanif-comilla-dhaka-1/25/2018-8.00pm-no

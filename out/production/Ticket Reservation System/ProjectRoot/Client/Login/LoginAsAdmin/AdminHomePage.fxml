@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<SplitPane dividerPositions="0.34448160535117056" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ProjectRoot.Client.Login.LoginAsAdmin.AdminHomePageController">
+  <items>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="398.0" prefWidth="219.0">
+         <children>
+            <Text layoutX="25.0" layoutY="225.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Admin Welcome to Ticket Reservation System" textAlignment="CENTER" wrappingWidth="152.5712890625">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Text>
+            <ImageView fitHeight="140.0" fitWidth="138.0" layoutX="42.0" layoutY="31.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../BinaryContent/admin.png" />
+               </image>
+            </ImageView>
+         </children></AnchorPane>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+         <children>
+            <Button fx:id="logout" layoutX="303.0" layoutY="14.0" mnemonicParsing="false" onAction="#logoutAction" text="Logout" textFill="#f21616" />
+            <Button fx:id="user" layoutX="69.0" layoutY="270.0" mnemonicParsing="false" onAction="#removeUserAction" text="Remove User">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="delete1" layoutX="71.0" layoutY="181.0" mnemonicParsing="false" onAction="#deleteJourneyAction" text="Delete Journey">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="add1" layoutX="71.0" layoutY="90.0" mnemonicParsing="false" onAction="#addJourneyAction" text="Add Journey">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+  </items>
+</SplitPane>
